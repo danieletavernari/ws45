@@ -1,0 +1,4 @@
+Years	Countries	Paragraph
+"1945,1990"	"USA,USSR"	This is a paragraph about the US and USSR in 1945 and 1990
+1950	France	This is a paragraph about France in 1950
+"1960-1970,1981"	Germany	"This is a paragraph about Germany from 1960 to 1970, and also 1981"
